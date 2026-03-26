@@ -8,3 +8,4 @@ preview
 security
 files
 branch
+wiki

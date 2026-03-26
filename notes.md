@@ -14,3 +14,4 @@ issues
 nows
 actiona
 spacesz
+pages

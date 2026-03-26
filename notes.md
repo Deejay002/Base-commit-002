@@ -15,3 +15,4 @@ nows
 actiona
 spacesz
 pages
+drag
